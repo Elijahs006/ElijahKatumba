@@ -99,4 +99,12 @@ void displayAvailableBooks() {
         printf("No books are currently available.\n");
     }
 }
-/
+/*
+GROUP G NAMES
+KATUMBA ELIJAH          2024/DCS/DAY/1717/G
+NASSALI FAITH CREFLO    2024/DCS/DAY/O944/G
+OCANA DOMINIC           2023/DCS/DAY/O447
+NYAMATA SHARON          2024/DCS/DAY/0932/G
+NABUKENYA KAREN JUSTINE 2024/DCS/DAY/1991/G
+MUHUMUZA JOEL           2024/DCS/DAY/0975/G
+ */  
